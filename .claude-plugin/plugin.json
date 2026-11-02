@@ -1,0 +1,11 @@
+{
+  "name": "agent-guidelines",
+  "description": "Behavioral guidelines to reduce common LLM coding mistakes: think before coding, keep it simple, make surgical changes, verify goals",
+  "version": "1.0.0",
+  "author": {
+    "name": "vicik25"
+  },
+  "license": "MIT",
+  "keywords": ["guidelines", "best-practices", "coding", "agents"],
+  "skills": ["./skills/agent-guidelines"]
+}

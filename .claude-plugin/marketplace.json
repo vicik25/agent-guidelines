@@ -1,0 +1,24 @@
+{
+  "name": "vicik25-skills",
+  "id": "vicik25-skills",
+  "owner": {
+    "name": "vicik25"
+  },
+  "metadata": {
+    "description": "Behavioral guidelines to reduce common LLM coding mistakes",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "agent-guidelines",
+      "source": "./",
+      "description": "Behavioral guidelines to reduce common LLM coding mistakes: Think Before Coding, Simplicity First, Surgical Changes, Goal-Driven Execution",
+      "version": "1.0.0",
+      "author": {
+        "name": "vicik25"
+      },
+      "keywords": ["guidelines", "best-practices", "coding", "agents"],
+      "category": "workflow"
+    }
+  ]
+}
